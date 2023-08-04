@@ -13,5 +13,7 @@ Plataforma simples de avaliação de produtos usando [Django Rest Framework](htt
 | | Excluir comentário.
 
 **Extras:**
+|  | Funcionalidade|
+|:-:|:-|
 | | Proibir usuários que não possuam um produto de postar avaliações e comentários.
 | | Proibir comentários em sequência.
